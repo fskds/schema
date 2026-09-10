@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="537.11" height="537.11" viewBox="218.77 168.54 537.11 537.11">
+  <defs>
+    <clipPath id="clipPath27">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-298.93651,-232.77731)"/>
+    </clipPath>
+    <clipPath id="clipPath29">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-298.93651,-232.77731)"/>
+    </clipPath>
+    <clipPath id="clipPath31">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-330.63431,-296.15921)"/>
+    </clipPath>
+    <clipPath id="clipPath33">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-400.34751,-182.0609)"/>
+    </clipPath>
+    <clipPath id="clipPath35">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-381.35071,-397.57021)"/>
+    </clipPath>
+    <clipPath id="clipPath37">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-381.35071,-397.57021)"/>
+    </clipPath>
+    <clipPath id="clipPath39">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-546.14362,-315.15591)"/>
+    </clipPath>
+    <clipPath id="clipPath41">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-349.65301,-334.18831)"/>
+    </clipPath>
+    <clipPath id="clipPath43">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-349.63101,-80.6499)"/>
+    </clipPath>
+    <clipPath id="clipPath45">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-349.63101,-80.6499)"/>
+    </clipPath>
+    <clipPath id="clipPath47">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-381.32881,-144.0317)"/>
+    </clipPath>
+    <clipPath id="clipPath49">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-216.53601,-226.446)"/>
+    </clipPath>
+    <clipPath id="clipPath51">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-232.3945,-369.06001)"/>
+    </clipPath>
+    <clipPath id="clipPath53">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-355.99801,-410.24931)"/>
+    </clipPath>
+    <clipPath id="clipPath55">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-355.99801,-410.24931)"/>
+    </clipPath>
+    <clipPath id="clipPath57">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-498.58731,-109.1601)"/>
+    </clipPath>
+    <clipPath id="clipPath59">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-457.39801,-232.76361)"/>
+    </clipPath>
+    <clipPath id="clipPath61">
+      <path d="M 0,566.93 H 1133.86 V 0 H 0 Z" transform="translate(-457.39801,-232.76361)"/>
+    </clipPath>
+  </defs>
+  <!-- 填充区域 -->
+  <g fill="#ec651b">
+    <!-- S 曲线两个叶片 -->
+    <path d="M 309.86,263.83 C 279.49,324.55 304.05,398.26 364.78,428.63 L 474.66,208.91 C 413.94,178.54 340.23,203.10 309.86,263.83 Z M 664.78,610.36 C 634.41,671.08 560.70,695.65 499.98,665.28 L 609.86,445.56 C 670.59,475.92 695.15,549.64 664.78,610.36 Z"/>
+    <!-- 坐标轴平行四边形 -->
+    <path d="M 398.58,445.54 L 440.85,361.03 L 576.06,428.65 L 533.80,513.16 Z"/>
+    <path d="M 508.47,225.81 L 728.19,335.70 L 685.93,420.21 L 466.20,310.32 Z"/>
+    <path d="M 466.17,648.37 L 246.45,538.49 L 288.71,453.98 L 508.44,563.86 Z"/>
+  </g>
+  <g fill="none" stroke="#ff8400" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter">
+    <!-- 坐标轴线 -->
+    <path d="M 0,0 31.698,63.382" transform="matrix(1.3333333,0,0,-1.3333333,398.582,445.53693)" clip-path="url(#clipPath27)"/>
+    <path d="M 0,0 101.411,-50.716" transform="matrix(1.3333333,0,0,-1.3333333,398.582,445.53693)" clip-path="url(#clipPath29)"/>
+    <path d="M 0,0 101.411,-50.716" transform="matrix(1.3333333,0,0,-1.3333333,440.84573,361.02773)" clip-path="url(#clipPath31)"/>
+    <path d="M 0,0 31.698,63.382" transform="matrix(1.3333333,0,0,-1.3333333,533.79667,513.1588)" clip-path="url(#clipPath33)"/>
+    <path d="M 0,0 164.793,-82.414" transform="matrix(1.3333333,0,0,-1.3333333,508.4676,225.81307)" clip-path="url(#clipPath35)"/>
+    <path d="M 0,0 -31.698,-63.382" transform="matrix(1.3333333,0,0,-1.3333333,508.4676,225.81307)" clip-path="url(#clipPath37)"/>
+    <path d="M 0,0 -31.698,-63.382" transform="matrix(1.3333333,0,0,-1.3333333,728.19147,335.6988)" clip-path="url(#clipPath39)"/>
+    <path d="M 0,0 164.793,-82.414" transform="matrix(1.3333333,0,0,-1.3333333,466.204,310.32227)" clip-path="url(#clipPath41)"/>
+    <path d="M 0,0 -164.793,82.414" transform="matrix(1.3333333,0,0,-1.3333333,466.17467,648.37347)" clip-path="url(#clipPath43)"/>
+    <path d="M 0,0 31.698,63.382" transform="matrix(1.3333333,0,0,-1.3333333,466.17467,648.37347)" clip-path="url(#clipPath45)"/>
+    <path d="M 0,0 -164.793,82.414" transform="matrix(1.3333333,0,0,-1.3333333,508.4384,563.8644)" clip-path="url(#clipPath47)"/>
+    <path d="M 0,0 -31.698,-63.382" transform="matrix(1.3333333,0,0,-1.3333333,288.71467,453.97867)" clip-path="url(#clipPath49)"/>
+    <!-- S 曲线段 -->
+    <path d="M 0,0 C -22.777,-45.543 -4.354,-100.827 41.189,-123.604" transform="matrix(1.3333333,0,0,-1.3333333,309.85933,263.82667)" clip-path="url(#clipPath51)"/>
+    <path d="M 0,0 C -45.543,22.777 -100.827,4.354 -123.604,-41.189" transform="matrix(1.3333333,0,0,-1.3333333,474.664,208.9076)" clip-path="url(#clipPath53)"/>
+    <path d="M 0,0 -82.414,-164.793" transform="matrix(1.3333333,0,0,-1.3333333,474.664,208.9076)" clip-path="url(#clipPath55)"/>
+    <path d="M 0,0 C -22.777,-45.543 -78.06,-63.966 -123.604,-41.189" transform="matrix(1.3333333,0,0,-1.3333333,664.78307,610.35987)" clip-path="url(#clipPath57)"/>
+    <path d="M 0,0 C 45.543,-22.777 63.966,-78.06 41.189,-123.604" transform="matrix(1.3333333,0,0,-1.3333333,609.864,445.5552)" clip-path="url(#clipPath59)"/>
+    <path d="M 0,0 -82.414,-164.793" transform="matrix(1.3333333,0,0,-1.3333333,609.864,445.5552)" clip-path="url(#clipPath61)"/>
+  </g>
+</svg>
