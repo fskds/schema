@@ -1,6 +1,6 @@
 import type { SchemaDetail, SchemaSummary, SchemaTypeInfo } from './data.d'
 
-export const API_BASE = 'http://dam.cnsesi.com/api/schema'
+export const API_BASE = 'https://dam.cnsesi.com/api/schema'
 //export const API_BASE = 'http://www.a.com/api/schema'
 /**
  * 通用 GET，取响应的 data 字段（service 层已剥离 { status, msg, data } 包装）
